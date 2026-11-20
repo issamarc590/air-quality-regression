@@ -1,5 +1,5 @@
 # Prédiction de la pollution de l'air à partir de capteurs à bas coût
-
+Projet initialement réalisé dans le cadre du cours Bases de l’apprentissage statistique, puis retravaillé avec l’aide d’un assistant IA (Claude) pour la structure, la vectorisation et la vérification des implémentations.
 Régression multi-sorties (CO, benzène, NOx, NO2) à partir des réponses de capteurs chimiques bon marché et de la météo, sur le jeu de données [UCI Air Quality](https://archive.ics.uci.edu/dataset/360/air+quality) (De Vito et al., 2008).
 
 Projet réalisé dans le cadre du cours *Bases de l'apprentissage statistique* (M1 Mathématiques et applications, Sorbonne Université).
